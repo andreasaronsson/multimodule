@@ -5,15 +5,7 @@
   <parent>
     <groupId>nu.aron</groupId>
     <artifactId>multimodule.parent</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.2-SNAPSHOT</version>
   </parent>
   <artifactId>moduleone</artifactId>
-  <version>1.0.1</version>
-  <dependencies>
-    <dependency>
-      <groupId>nu.aron</groupId>
-      <artifactId>moduletwo</artifactId>
-      <scope>provided</scope>
-    </dependency>
-  </dependencies>
 </project>
